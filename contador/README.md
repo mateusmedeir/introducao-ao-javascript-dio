@@ -1,2 +1,2 @@
 # Contador
-Contador desenvolvido durante bootcamp da DIO, utilizando Javascript
+Contador desenvolvido durante bootcamp da DIO, utilizando Javascript.
